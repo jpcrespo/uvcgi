@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: UVCsystem.aux
+The style file: apalike.bst
+Database file #1: bibliografia.bib
+I was expecting a `,' or a `}'---line 15 of file bibliografia.bib
+ :   
+ :   title={Simulated sunlight rapidly inactivates SARS-CoV-2 on surfaces},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in covidsol
+Warning--empty title in covidsol
+Warning--there's a number but no volume in covidsol
+You've used 1 entry,
+            1935 wiz_defined-function locations,
+            476 strings with 3976 characters,
+and the built_in function-call counts, 686 in all, are:
+= -- 57
+> -- 58
+< -- 0
++ -- 22
+- -- 22
+* -- 74
+:= -- 126
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 14
+chr.to.int$ -- 1
+cite$ -- 4
+duplicate$ -- 14
+empty$ -- 31
+format.name$ -- 23
+if$ -- 121
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 7
+num.names$ -- 3
+pop$ -- 19
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 6
+stack$ -- 0
+substring$ -- 37
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 3
+while$ -- 4
+width$ -- 0
+write$ -- 12
+(There was 1 error message)
